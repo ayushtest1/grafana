@@ -1,0 +1,19 @@
+{
+  "orgId": 1,
+  "name": "CloudWatch",
+  "type": "cloudwatch",
+  "typeLogoUrl": "public/app/plugins/datasource/cloudwatch/img/amazon-web-services.png",
+  "access": "proxy",
+  "url": "",
+  "password": "",
+  "user": "",
+  "database": "",
+  "basicAuth": false,
+  "isDefault": true,
+  "jsonData": {
+    "authType": "keys",
+    "customMetricsNamespaces": "System/Linux",
+    "defaultRegion": "us-east-1"
+  },
+  "readOnly": false
+}
